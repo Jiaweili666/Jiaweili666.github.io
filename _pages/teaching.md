@@ -1,12 +1,13 @@
 ---
-layout: archive
-title: 
 permalink: /
+title: "黄智聪"
+excerpt: "Teaching"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /teaching/
+  - /teaching.html
 ---
+
 **教研项目：**
 
 - 基于处理器在环的嵌入式课程实验教学方案的研究，广东省本科高校教学质量与教学改革工程项目；
