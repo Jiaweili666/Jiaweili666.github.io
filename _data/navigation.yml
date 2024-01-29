@@ -6,18 +6,5 @@ main:
 
   - title: "Publications"
     url: /publications/
-       
-  - title: "Honors and Awards"
-    url: /portfolio/
-        
-  - title: "Highlighted Projects"
-    url: /year-archive/
+    
 
-  - title: "News"
-    url: /talks/ 
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
