@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
+
 
 教研项目：
 ======
