@@ -177,7 +177,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink:
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -251,6 +251,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+
     # notes
   - scope:
       path: ""
