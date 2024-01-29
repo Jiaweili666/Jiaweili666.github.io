@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "讲授课程"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
@@ -8,13 +8,5 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- （本科）嵌入式系统与设计、电路导论、应用微积分
+- （研究生）嵌入式系统与边缘人工智能、数字伺服系统
