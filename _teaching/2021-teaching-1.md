@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2021-teaching-1
 venue: "South China University of Technology"
-date: 
+date: 2021-01-01
 location: "Guangzhou, China"
 ---
 
