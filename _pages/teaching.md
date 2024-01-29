@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /teaching
 title: "黄智聪"
 excerpt: "Teaching"
 author_profile: true
