@@ -1,11 +1,12 @@
 ---
-permalink: /teaching
-title: "黄智聪"
-excerpt: "Teaching"
+layout: archive
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
+redirect_from:
 redirect_from: 
-  - /teaching/
-  - /teaching.html
+  - /about/
+  - /about.html
 ---
 
 **教研项目：**
