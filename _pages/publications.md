@@ -16,3 +16,5 @@ redirect_from:
 [2] Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, [“Design of a single-stage inductive-power-transfer converter for efficient EV battery charging”](http://Gavy666.github.io/files/Huang2017Design-TVT.pdf), IEEE Trans. Veh. Tech., vol. 66, no. 7, pp. 5808-5821, Jul. 2017. (JCR Q1) 
 
 [3] Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, [“Control design for optimizing efficiency in inductive power transfer systems”](http://Gavy666.github.io/files/Huang2018Control-TPE.pdf), IEEE Trans. Power Electron., vol. 33, no. 5, pp. 4523-4534, May 2018. (JCR Q1) 
+
+[4] Zhicong Huang*, Io Wa Iam, Iok U Hoi, Chi-Seng Lam, Pui-In Mak and Rui P. Martins, [“Self-Contained Solar-Powered Inductive Power Transfer System for Wireless Electric Vehicle Charging”](http://Gavy666.github.io/files/Huang2017Design-TVT.pdf), in Proceeding of 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC2019), Macao, China, 2019, pp. 1-6. (Best Track Paper Award) 
