@@ -11,12 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+ Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, “Revisiting stability criteria for DC power distribution systems based on power balance”, CPSS Trans. Power Electron. Appl., vol. 2, no. 1, Mar. 2017. (Invited Paper) 
 Work experience
 ======
 * Summer 2015: Research Assistant
