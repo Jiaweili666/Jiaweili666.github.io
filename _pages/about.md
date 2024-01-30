@@ -72,7 +72,7 @@ redirect_from:
 <!-- 用于遍历某个文件夹中的所有文章 -->
 
 # Highlited Projects
-{% for post in site.projects %} {% include archive-single.html %} {% endfor %}
+<!-- {% for post in site.projects %} {% include archive-single.html %} {% endfor %} -->
 
 # Teaching
 
