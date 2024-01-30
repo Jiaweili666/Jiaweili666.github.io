@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  notes:
+  news:
     output: true
     permalink: /:collection/:path/
 
@@ -250,9 +250,9 @@ defaults:
     # _notes
   - scope:
       path: ""
-      type: notes
+      type: news
     values:
-      layout: talks
+      layout: single
       author_profile: true
       share: true
 
