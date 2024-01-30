@@ -1,6 +1,6 @@
 ---
 title: "Two Student Research Projects Got Grants from University"
-excerpt: "Two Student Research Projects Got Grants from University<br/><img src='/images/500x300.png'>"
+excerpt: "Two student research projects got grants from South China University of Technology and will be carried out under my supervision.<br/><img src='/images/featured.png'>"
 collection: news
 ---
 
