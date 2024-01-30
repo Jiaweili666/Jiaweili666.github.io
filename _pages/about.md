@@ -39,6 +39,7 @@ redirect_from:
 <p style="text-align: right;">
   [View more](/publications/)
 </p>
+
 # Honors and Awards
 
 [1]   2023年，ABB杯智能技术创新大赛（变频器半导体温度预测AI建模挑战赛）二等奖；
