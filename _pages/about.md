@@ -21,13 +21,14 @@ redirect_from:
   
 
 # Publications
-[1]Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, [“Revisiting stability criteria for DC power distribution systems based on power balance”](http://Gavy666.github.io/files/Huang2017Revisiting-TPEA.pdf), CPSS Trans. Power Electron. Appl., vol. 2, no. 1, Mar. 2017. (Invited Paper)
+[28] Zhicong Huang*, Tian Qin and Herbert Ho-Ching Iu, [“Primary-tuning wireless constant-current charger with self-sustained constant-voltage limit featuring minimal secondary design,”](https://ieeexplore.ieee.org/document/10175531) IEEE Journal of Emerging and Selected Topics in Power Electronics, in press.
 
-[2] Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, [“Design of a single-stage inductive-power-transfer converter for efficient EV battery charging”](http://Gavy666.github.io/files/Huang2017Design-TVT.pdf), IEEE Trans. Veh. Tech., vol. 66, no. 7, pp. 5808-5821, Jul. 2017. (JCR Q1) 
+[27] Zhicong Huang*, Canjun Yuan, Hanchen Ge and Ting Hou, [“Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm”](https://ieeexplore.ieee.org/document/10167658), IEEE Journal on Emerging and Selected Topics in Circuits and Systems, in press.
 
-[3] Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, [“Control design for optimizing efficiency in inductive power transfer systems”](http://Gavy666.github.io/files/Huang2018Control-TPE.pdf), IEEE Trans. Power Electron., vol. 33, no. 5, pp. 4523-4534, May 2018. (JCR Q1) 
+[26] Io-Wa Iam, Zhaoyi Ding, Zhicong Huang, Chi-Seng Lam*, Rui P. Martins and Pui-In Mak, [“A flexible rooftop photovoltaic-inductive wireless power transfer system for low-voltage DC grid”](https://ieeexplore.ieee.org/abstract/document/10131951), IEEE Access, vol. 11, pp. 51117-51132, 2023.
 
-[4] Zhicong Huang*, Io Wa Iam, Iok U Hoi, Chi-Seng Lam, Pui-In Mak and Rui P. Martins, [“Self-Contained Solar-Powered Inductive Power Transfer System for Wireless Electric Vehicle Charging”](http://Gavy666.github.io/files/Huang2017Design-TVT.pdf), in Proceeding of 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC2019), Macao, China, 2019, pp. 1-6. (Best Track Paper Award) 
+[25] Jingyu Wang and Zhicong Huang*, [“A single-switch WPT circuit with inherent CCO-CVO for battery charging”](https://ieeexplore.ieee.org/abstract/document/10111058), IEEE Transactions on Transportation Electrification, in press.
+
 <html lang="zh-CN">
 <div style="text-align: right;">
 <a href="http://Gavy666.github.io/publications/">View More...</a> 
