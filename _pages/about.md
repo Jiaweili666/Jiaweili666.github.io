@@ -18,3 +18,8 @@ redirect_from:
 - 以新能源为主体的新型电力系统
 - 新能源汽车驱动和控制技术
 - 电力电子变换器的建模与控制
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
