@@ -46,11 +46,13 @@ redirect_from:
 
 </div>
 
+<html lang="zh-CN">
 <div style="text-align: right;">
 
 [Your Link Text](/publications/)
 
 </div>
+</html>
 
 # Honors and Awards
 
