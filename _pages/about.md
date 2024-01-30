@@ -18,12 +18,7 @@ redirect_from:
 - 以新能源为主体的新型电力系统
 - 新能源汽车驱动和控制技术
 - 电力电子变换器的建模与控制
-
-# News
-{% for post in site.news %}
-  {% include archive-single.html %}
-{% endfor %} 
-<!-- 用于遍历某个文件夹中的所有文章 -->
+- 
 
 
 # Publications
@@ -40,6 +35,17 @@ redirect_from:
 </div>
 </html>
 <!-- 超链接居右 -->
+
+# Invention Patent
+
+[1]   Wireless charging circuit and system（美国专利，US 11,201,503 B2）；
+
+[2]   一种仿龙型飞行器（中国发明专利，ZL 2021 1 1498245.8）；
+
+[3]   一种恒流恒压自主切换的无线充电系统（中国发明专利，ZL 2021 1 0398355.0）；
+
+[4]   一种基于串联-串联补偿无线输电系统及均流方法（中国发明专利，ZL 2021 1 0631395.5）；
+
 
 # Honors and Awards
 
@@ -59,15 +65,11 @@ redirect_from:
 
 [8]   2020年，Outstanding Prize in Bank of China Trophy One Million Dollar Macao Regional Entrepreneurship Competition；
 
-# Invention Patent
-
-[1]   Wireless charging circuit and system（美国专利，US 11,201,503 B2）；
-
-[2]   一种仿龙型飞行器（中国发明专利，ZL 2021 1 1498245.8）；
-
-[3]   一种恒流恒压自主切换的无线充电系统（中国发明专利，ZL 2021 1 0398355.0）；
-
-[4]   一种基于串联-串联补偿无线输电系统及均流方法（中国发明专利，ZL 2021 1 0631395.5）；
+# News
+{% for post in site.news %}
+  {% include archive-single.html %}
+{% endfor %} 
+<!-- 用于遍历某个文件夹中的所有文章 -->
 
 # Teaching
 
