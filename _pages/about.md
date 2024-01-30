@@ -36,6 +36,9 @@ redirect_from:
 [4] Zhicong Huang*, Io Wa Iam, Iok U Hoi, Chi-Seng Lam, Pui-In Mak and Rui P. Martins, [“Self-Contained Solar-Powered Inductive Power Transfer System for Wireless Electric Vehicle Charging”](http://Gavy666.github.io/files/Huang2017Design-TVT.pdf), in Proceeding of 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC2019), Macao, China, 2019, pp. 1-6. (Best Track Paper Award) 
 [View more](/publications/)
 
+<p style="text-align: right;">
+  [View more](/publications/)
+</p>
 # Honors and Awards
 
 [1]   2023年，ABB杯智能技术创新大赛（变频器半导体温度预测AI建模挑战赛）二等奖；
