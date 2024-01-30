@@ -16,7 +16,7 @@ main:
     url: "#teaching"      
 
   - title: "Highlighted Projects"
-     url: "#/highlighted-projects" 
+    url: "/#new"
       
 
     

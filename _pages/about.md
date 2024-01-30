@@ -71,8 +71,8 @@ redirect_from:
 {% endfor %} 
 <!-- 用于遍历某个文件夹中的所有文章 -->
 
-# Highlighted Projects
-<!-- {% for post in site.projects %} {% include archive-single.html %} {% endfor %} -->
+# New
+{% for post in site.projects %} {% include archive-single.html %} {% endfor %}
 
 # Teaching
 
