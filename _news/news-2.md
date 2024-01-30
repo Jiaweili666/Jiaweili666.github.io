@@ -4,4 +4,4 @@ excerpt: "My application for a research grant entitle “Research on Wireless Ch
 collection: news
 ---
 
-<img src="../images/featured2.png" alt="featured" style="zoom: 33%;" />
+<img src="https://Gavy666.github.io/images/featured2.png" alt="featured" style="zoom: 50%;" />
