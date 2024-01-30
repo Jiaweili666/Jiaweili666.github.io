@@ -19,7 +19,8 @@ redirect_from:
 - 新能源汽车驱动和控制技术
 - 电力电子变换器的建模与控制
 
-
-{% for post in site.portfolio %}
+# News
+{% for post in site.news %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} 
+<!-- 用于遍历某个文件夹中的所有文章 -->
