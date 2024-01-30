@@ -41,16 +41,12 @@ redirect_from:
 </p>
 
 <div style="text-align: right;">
-
 [Your Link Text](http://www.example.com)
-
 </div>
 
 <html lang="zh-CN">
 <div style="text-align: right;">
-
-[Your Link Text](/publications/)
-
+<a href="http://Gavy666.github.io/publications/">View More...</a> 
 </div>
 </html>
 
