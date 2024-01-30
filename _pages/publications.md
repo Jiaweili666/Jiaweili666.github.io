@@ -15,27 +15,27 @@ redirect_from:
 
 [27] Zhicong Huang*, Canjun Yuan, Hanchen Ge and Ting Hou, [“Optimization of substation siting and connection topology in offshore wind farm based on modified firefly algorithm”](https://ieeexplore.ieee.org/document/10167658), IEEE Journal on Emerging and Selected Topics in Circuits and Systems, in press.
 
-[26] Io-Wa Iam, Zhaoyi Ding, Zhicong Huang, Chi-Seng Lam*, Rui P. Martins and Pui-In Mak, “A flexible rooftop photovoltaic-inductive wireless power transfer system for low-voltage DC grid”, IEEE Access, vol. 11, pp. 51117-51132, 2023.
+[26] Io-Wa Iam, Zhaoyi Ding, Zhicong Huang, Chi-Seng Lam*, Rui P. Martins and Pui-In Mak, [“A flexible rooftop photovoltaic-inductive wireless power transfer system for low-voltage DC grid”](https://ieeexplore.ieee.org/abstract/document/10131951), IEEE Access, vol. 11, pp. 51117-51132, 2023.
 
-[25] Jingyu Wang and Zhicong Huang*, “A single-switch WPT circuit with inherent CCO-CVO for battery charging”, IEEE Transactions on Transportation Electrification, in press.
+[25] Jingyu Wang and Zhicong Huang*, [“A single-switch WPT circuit with inherent CCO-CVO for battery charging”](https://ieeexplore.ieee.org/abstract/document/10111058), IEEE Transactions on Transportation Electrification, in press.
 
-[24] Zhijian Fang, Haojiang Yue, Zihao Wei, Zihan Zhang and Zhicong Huang*, “A control-free series resonant converter for battery charging with automatic CC-to-CV profile and whole-process high efficiency,” IEEE Transactions on Power Electronics, vol. 38, no. 7, pp. 8666-8675, Jul. 2023.
+[24] Zhijian Fang, Haojiang Yue, Zihao Wei, Zihan Zhang and Zhicong Huang*, [“A control-free series resonant converter for battery charging with automatic CC-to-CV profile and whole-process high efficiency,”](https://ieeexplore.ieee.org/document/10106451) IEEE Transactions on Power Electronics, vol. 38, no. 7, pp. 8666-8675, Jul. 2023.
 
-[23] Yongxing Zhang, Zhicong Huang*, Bowei Zou and Jing Bian, “Conceptual design and analysis for a novel parallel configuration-type wave energy converter,” Renewable Energy, vol. 208, pp. 627-644, May 2023.
+[23] Yongxing Zhang, Zhicong Huang*, Bowei Zou and Jing Bian, [“Conceptual design and analysis for a novel parallel configuration-type wave energy converter,”](https://www.semanticscholar.org/paper/Conceptual-design-and-analysis-for-a-novel-parallel-Zhang-Huang/25ca1a8d4341ff5c57fc122016c156f6061c490c) Renewable Energy, vol. 208, pp. 627-644, May 2023.
 
-[22] Mengna Luo and Zhicong Huang*, “Investigation of current balance methodologies for inductive power transfer coupler with multiple branches,” IET Power Electronics, in press.
+[22] Mengna Luo and Zhicong Huang*, [“Investigation of current balance methodologies for inductive power transfer coupler with multiple branches,”](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/pel2.12495) IET Power Electronics, in press.
 
-[21] Hanchen Ge and Zhicong Huang*, “Modeling methodology based on fast and refined neural networks for non-isolated DC-DC converters with configurable parameter settings,” IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 2, pp. 617-628, Jun. 2023.
+[21] Hanchen Ge and Zhicong Huang*, [“Modeling methodology based on fast and refined neural networks for non-isolated DC-DC converters with configurable parameter settings,”](https://ieeexplore.ieee.org/document/10057400) IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 13, no. 2, pp. 617-628, Jun. 2023.
 
-[20] Yang Yang, Jingyu Wang and Zhicong Huang*, Io-Wa Iam and Chi-Seng Lam, “Automatic containment of field exposure for roadway wireless electric vehicle charger,” IEEE Transactions on Transportation Electrification, in press.
+[20] Yang Yang, Jingyu Wang and Zhicong Huang*, Io-Wa Iam and Chi-Seng Lam, [“Automatic containment of field exposure for roadway wireless electric vehicle charger,”](https://ieeexplore.ieee.org/abstract/document/10016653) IEEE Transactions on Transportation Electrification, in press.
 
-[19] Zhenwei Huang and Zhicong Huang*, “Single-immittance-network based IPT systems for driving multi-string LEDs with current balance,” International Journal of Circuit Theory and Applications, vol. 51, no. 5, pp. 2406-2421, May 2023.
+[19] Zhenwei Huang and Zhicong Huang*, [“Single-immittance-network based IPT systems for driving multi-string LEDs with current balance,”](https://onlinelibrary.wiley.com/doi/10.1002/cta.3536) International Journal of Circuit Theory and Applications, vol. 51, no. 5, pp. 2406-2421, May 2023.
 
-[18] Zhijian Fang, Haojiang Yue, Fei Xie and Zhicong Huang*, “Non-backflow-power and reduced-switching-loss modulation for bidirectional series resonant converter with wide gain range,” IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 11, no. 1, pp. 490-505, Feb. 2023.
+[18] Zhijian Fang, Haojiang Yue, Fei Xie and Zhicong Huang*, [“Non-backflow-power and reduced-switching-loss modulation for bidirectional series resonant converter with wide gain range,”](https://ieeexplore.ieee.org/document/9893116) IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 11, no. 1, pp. 490-505, Feb. 2023.
 
-[17] 黄智聪*,邹博维,黄振威.基于开关可控电容和半控整流桥的功率源型感应式耦合电能传输系统[J].电工技术学报,2022,37(24):6272-6283.
+[17] 黄智聪*,邹博维,黄振威.[基于开关可控电容和半控整流桥的功率源型感应式耦合电能传输系统[J]](https://d.wanfangdata.com.cn/periodical/dgjsxb202224010).电工技术学报,2022,37(24):6272-6283.
 
-[16] Zhijian Fang, Hanlin Dong, Haotian Sun, Fei Xie and Zhicong Huang*, “Intermittent sinusoidal modulation of bidirectional series resonant converter with zero current switching, linear current controllability and load-independent efficiency,” IEEE Transactions on Power Electronics, vol. 37, no. 10, pp. 11725-11738, Oct. 2022.
+[16] Zhijian Fang, Hanlin Dong, Haotian Sun, Fei Xie and Zhicong Huang*, [“Intermittent sinusoidal modulation of bidirectional series resonant converter with zero current switching, linear current controllability and load-independent efficiency,”](https://ieeexplore.ieee.org/document/9773036) IEEE Transactions on Power Electronics, vol. 37, no. 10, pp. 11725-11738, Oct. 2022.
 
 [15] Hai Xu, Zhenwei Huang, Yang Yang, Zhicong Huang*, Io-Wa Iam and Chi-Seng Lam*, “Analysis and design of three-coil coupler for inductive power transfer system with automatic seamless CC-to-CV charging capability,” IEEE Access, vol. 10, pp. 10139-10148, 2022.
 
