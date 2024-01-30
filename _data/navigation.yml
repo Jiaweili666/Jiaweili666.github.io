@@ -13,10 +13,10 @@ main:
     url: "#honors-and-awards"
 
   - title: "Teaching"
-    url: "#teaching" 
-      
-# - title: "Highlighted Projects"
-#     url: "#highlighted-projects" 
+    url: "#teaching"      
+    
+  - title: "Highlighted Projects"
+     url: "#highlighted-projects" 
       
 
     
