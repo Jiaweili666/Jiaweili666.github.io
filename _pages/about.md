@@ -65,15 +65,6 @@ redirect_from:
 
 [8]   2020年，Outstanding Prize in Bank of China Trophy One Million Dollar Macao Regional Entrepreneurship Competition；
 
-# News
-{% for post in site.news %}
-  {% include archive-single.html %}
-{% endfor %} 
-<!-- 用于遍历某个文件夹中的所有文章 -->
-
-# Highlighted Projects
-{% for post in site.projects %} {% include archive-single.html %} {% endfor %}
-
 # Teaching
 
 **教研项目：**
@@ -84,3 +75,12 @@ redirect_from:
 **讲授课程：**
 - （本科）嵌入式系统与设计、电路导论、应用微积分
 - （研究生）嵌入式系统与边缘人工智能、数字伺服系统
+  
+# News
+{% for post in site.news %}
+  {% include archive-single.html %}
+{% endfor %} 
+<!-- 用于遍历某个文件夹中的所有文章 -->
+
+# Highlighted Projects
+{% for post in site.projects %} {% include archive-single.html %} {% endfor %}
