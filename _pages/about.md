@@ -34,5 +34,22 @@ redirect_from:
 [3] Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, [“Control design for optimizing efficiency in inductive power transfer systems”](http://Gavy666.github.io/files/Huang2018Control-TPE.pdf), IEEE Trans. Power Electron., vol. 33, no. 5, pp. 4523-4534, May 2018. (JCR Q1) 
 
 [4] Zhicong Huang*, Io Wa Iam, Iok U Hoi, Chi-Seng Lam, Pui-In Mak and Rui P. Martins, [“Self-Contained Solar-Powered Inductive Power Transfer System for Wireless Electric Vehicle Charging”](http://Gavy666.github.io/files/Huang2017Design-TVT.pdf), in Proceeding of 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC2019), Macao, China, 2019, pp. 1-6. (Best Track Paper Award) 
-[“More”](/publications/)
+[View more](/publications/)
 
+# Honors and Awards
+
+[1]   2023年，ABB杯智能技术创新大赛（变频器半导体温度预测AI建模挑战赛）二等奖；
+
+[2]   2022年，青蓝国际创新创业大赛初创组三等奖，“应用于自动导引车和新能源汽车的无线充电装置的研发及产业化”；
+
+[3]   2022年，IEEE PEAC会议优秀论文奖；
+
+[4]   2022年，入选中国科协战略发展部科技智库青年人才计划；
+
+[5]   2021年，IEEE TPEL（电力电子领域权威期刊）杰出审稿人奖；
+
+[6]   2019年，IEEE PES（电力与能源学会）APPEEC会议最佳论文奖；
+
+[7]   2022年，第二届“率先杯”未来技术创新大赛初赛优胜奖，“用于出勤战车电能交互的模块化无线充放电装置”；
+
+[8]   2020年，Outstanding Prize in Bank of China Trophy One Million Dollar Macao Regional Entrepreneurship Competition；
