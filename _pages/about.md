@@ -18,8 +18,7 @@ redirect_from:
 - 以新能源为主体的新型电力系统
 - 新能源汽车驱动和控制技术
 - 电力电子变换器的建模与控制
-- 
-
+  
 
 # Publications
 [1]Zhicong Huang, Siu-Chung Wong*, and Chi K. Tse, [“Revisiting stability criteria for DC power distribution systems based on power balance”](http://Gavy666.github.io/files/Huang2017Revisiting-TPEA.pdf), CPSS Trans. Power Electron. Appl., vol. 2, no. 1, Mar. 2017. (Invited Paper)
