@@ -1,7 +1,16 @@
 # main links links
 main:
+  - title: "Research area"
+    url: "/#research-area"
+
+  - title: "News"
+    url: "/#news"
+
   - title: "Publications"
     url: "#publications"
+
+  - title: "Honors and Awards"
+    url: "#honors-and-awards"
 
   - title: "Talks"
     url: /talks/    
@@ -21,6 +30,5 @@ main:
   - title: "Guide"
     url: /markdown/
 
-  - title: "RA"
-    url: "/#research-area"
+
     
